@@ -1,0 +1,41 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environment / secrets (if you add them later)
+.env
+.env.local
+.streamlit/secrets.toml
+
+# Model weights (large files; add to Git LFS or document in README)
+models/*.pt
+*.pt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
