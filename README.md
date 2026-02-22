@@ -19,18 +19,19 @@
 
 1. **Clone the repo**sh
    git clone https://github.com/MD-MAROOF/ParkPulse.git
+   
    cd ParkPulse
-2. **Create a virtual environment (recommended)**
+3. **Create a virtual environment (recommended)**
 
         python -m venv .venv
    .venv\Scripts\Activate.ps1   # Windows PowerShell
    # or: source .venv/bin/activate   # Linux/macOS
 
-3. **Install dependencies**
+4. **Install dependencies**
 
       pip install -r requirements.txt
 
-4. **Add the YOLO model **
+5. **Add the YOLO model **
 Place your vehicle-detection checkpoint at models/best.pt. (Required for the app to run.)
 
 **RUN**
