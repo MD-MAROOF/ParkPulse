@@ -18,7 +18,7 @@
 ## Setup
 
 1. **Clone the repo**sh
-   git clone https://github.com/YOUR_USERNAME/ParkPulse.git
+   git clone https://github.com/MD-MAROOF/ParkPulse.git
    cd ParkPulse
 2. **Create a virtual environment (recommended)**
 
