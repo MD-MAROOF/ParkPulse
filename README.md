@@ -167,15 +167,6 @@ For each parking area:
 
 ---
 
-## 📌 Project Status
-
-Actively developed research prototype.
-
----
-
-## 📄 License
-
-MIT License
 
 ## Tech stack
 
