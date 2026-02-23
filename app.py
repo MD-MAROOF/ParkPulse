@@ -58,6 +58,7 @@ place = st.text_input(
     "Place name or address",
     value="Hartsfield–Jackson Atlanta International Airport",
     help="Geocode this place to get the search center.",
+    key="place_input",
 )
 radius_m = st.slider("Search radius (m)", min_value=500, max_value=5000, value=2500, step=100)
 k = st.slider("Number of largest parking areas to analyze (K)", min_value=1, max_value=8, value=2)
