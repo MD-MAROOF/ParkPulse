@@ -39,7 +39,7 @@ The system operates around a specific point of interest (e.g., airports, stadium
 
 **Demonstration link**: https://youtu.be/MyN5VNzvWIs?si=35XAP3DVlMQ5ZDx0
 
----0------------------------------
+
 
 ## 🏗️ System Architecture
 
